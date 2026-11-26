@@ -1,0 +1,16 @@
+# registry / device backups produced by the scripts
+*.reg
+explorer-state-backup-*.reg
+wupolicy-backup-*.reg
+phantom-*-backup-*.txt
+
+# logs and local scratch
+*.log
+*.tmp
+*.bak
+~$*
+.DS_Store
+Thumbs.db
+
+# PowerShell
+*.ps1xml
